@@ -1,0 +1,18 @@
+.head {
+    size: 100;
+
+}
+
+.head-container {
+    background-color: blue;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.h1{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+}
